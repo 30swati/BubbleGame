@@ -12,4 +12,4 @@
 <p>The Game is not even fun in playing but creating too as it help us to improving your skills.</p>
 <p>Please feel free to explore the code, customise it and enjoy the learning.</p>
 <p><h4>Live Link :</h4> <a href="https://bubble-game-pink.vercel.app/">Bubble Game </a></p>
-<p><h4>Repo Link :</h4> <a href=" https://github.com/30swati/BubbleGame/">Bubble Game Repository</p>
+<p><h4>Repo Link :</h4> <a href=" https://github.com/30swati/BubbleGame/">Bubble Game Repository</a></p>
