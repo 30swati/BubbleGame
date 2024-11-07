@@ -1,6 +1,5 @@
 <h1>Overview of Bubble Game</h1>
 <p>The Bubble Game is a simple game created using basic concepts of Web development like <em>html, css, and JavaScript</em>. It is an easy peasy but attractive game. </p>
-
 <h1>How to Play</h1>
 <ol>
   <li>Start the game by clicking play button.</li>
@@ -12,4 +11,5 @@
 <h1>Conclusion</h1>
 <p>The Game is not even fun in playing but creating too as it help us to improving your skills.</p>
 <p>Please feel free to explore the code, customise it and enjoy the learning.</p>
-<p><em>Live Link :-</em> </p>
+<p><h4>Live Link :</h4> https://bubble-game-pink.vercel.app/</p>
+<p><h4>Repo Link :</h4> https://github.com/30swati/BubbleGame/</p>
