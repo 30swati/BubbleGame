@@ -1,5 +1,7 @@
 <h1>Overview of Bubble Game</h1>
 <p>The Bubble Game is a simple game created using basic concepts of Web development like <em>html, css, and JavaScript</em>. It is an easy peasy but attractive game. </p>
+<h1>What new learning</h1>
+<p><b>GSAP :</b> GSAP is an industry standard JavaScript animation library from GreenSock. GSAP allows you to effortlessly animate anything JS can touch. Delivering silky-smooth performance and unmatched support so you can focus on the fun stuff.</p>
 <h1>How to Play</h1>
 <ol>
   <li>Start the game by clicking play button.</li>
@@ -12,4 +14,4 @@
 <p>The Game is not even fun in playing but creating too as it help us to improving your skills.</p>
 <p>Please feel free to explore the code, customise it and enjoy the learning.</p>
 <p><h4>Live Link :</h4> <a href="https://bubble-game-pink.vercel.app/">Bubble Game </a></p>
-<p><h4>Repo Link :</h4> <a href=" https://github.com/30swati/BubbleGame/">Bubble Game Repository</a></p>
+
