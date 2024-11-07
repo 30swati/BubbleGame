@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Simple bubble game">
+    <link rel="icon" href="victory.jpg" type="image/x-icon">
+    <title>Bubble Game</title>
+    <link href="style.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"
+        integrity="sha512-7eHRwcbYkK4d9g/6tD/mhkf++eoTHwpNM9woBxtPUBWm67zeAfFC+HrdoE2GanKeocly/VxeLvIqwvCdk7qScg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+</head>
+
+<body>
+    <div class="about">
+        <h1 style="color: rgb(241, 186, 68);" class="bubble">Bubble</h1>
+        <h1 style="color: rgb(40, 84, 124);" class="game">Game</h1>
+        <span class="details" style="text-align: center;">
+            <p>Tap on the Bubble that shown in the Hit</p>
+            <button id="startGame">Play</button>
+        </span>
+    </div>
+    <section class="context" style="display: none;">
+        <div class="heading">
+            <h4 style="color: rgb(241, 186, 68)">Bubble</h4>
+            <h4 style="color: rgb(40, 84, 124);">Game</h4>
+        </div>
+        <div class="main" style="display: none;">
+
+            <div class="ptop">
+                <div class="htop">Hit
+                    <div id="hitValue" class="box">4</div>
+                </div>
+                <div class="htop">Timer
+                    <div id="timerValue" class="box">60</div>
+                </div>
+                <div class="htop">score
+                    <div id="scoreValue" class="box">0</div>
+                </div>
+            </div>
+            <section class="sec1">
+                <div class="pbottom">
+                    <div class="bubble">6</div>
+                </div>
+                <section class="sec2" style="display: none;">
+                    <div class="message">
+                        <div class="trophy"><img src="victory.jpg" alt="" class="vicImg">
+                            <h6 style="text-align: center;">~ Developed by Swati </h6>
+                        </div>
+                        <div class="repeat">
+                            <p>Total Score</p>
+                            <h2 class="totalScore">0</h2>
+                            <button class="again">Play again</button>
+                        </div>
+                    </div>
+                </section>
+            </section>
+        </div>
+    </section>
+    <script src='script.js'></script>
+</body>
+
+</html>
